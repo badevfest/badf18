@@ -1,0 +1,15 @@
+{
+  "basepath": "/",
+  "url": "https://badf2018-d9ac1.firebaseapp.com/",
+  "analytics": "",
+  "prefix": "/",
+  "firebase": {
+    "apiKey": "AIzaSyCgAF0K7LbOCudkmTsZvV6KhiITDUmQYwI",
+    "authDomain": "badf2018-d9ac1.firebaseapp.com",
+    "databaseURL": "https://badf2018-d9ac1.firebaseio.com/",
+    "projectId": "badf2018-d9ac1",
+    "storageBucket": "badf2018-d9ac1.appspot.com/",
+    "messagingSenderId": ""
+  },
+  "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
+}
